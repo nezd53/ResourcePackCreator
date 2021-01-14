@@ -1,4 +1,4 @@
-package domain.resourcepackcreator;
+package com.nezdats.rpc;
 
 import org.junit.Test;
 
