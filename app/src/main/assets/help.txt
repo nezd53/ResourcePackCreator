@@ -1,0 +1,25 @@
+The Resource Pack Creator lets you create a resource pack with only one image and/or audio file. Everything will look/sound the same. This is just for comedic effect and probably won't be very useful.
+
+To copy an image:
+Select BROWSE to choose an image. Most filetypes should be supported. If the image is not a PNG, the app converts a copy of it to a PNG. Enter the name of the new resource pack and select START. Before copying the image, the app will resize it to 64 by 64 pixels if it is larger than that. If it is smaller that that but not a square, it will stretch the shorter side to match the longer side. To turn this off, go to Settings and uncheck "Resize images before copying."
+
+To copy a sound:
+Select BROWSE to choose a sound file. Currently, only OGG files are supported. Enter the name of the new resource pack and select START. WARNING: If the sound is too long, Minecraft will probably crash.
+
+To put both images and sounds into a single resource pack:
+Just put the same name for the new resource pack.
+
+NOTE: To select a file, this app uses Android's document provider. If you want to see all of the files on your device, tap the three dots in the top-right corner while in the file chooser. Then, select Show internal storage.
+
+Important info–please read!
+Here's some things you should know before starting:
+* I'm not responsible if something gets messed up.
+* This app creates a resource pack for Minecraft. This app won't be very useful if you don't have Minecraft installed.
+* You'll need to add the resource pack to your world.
+* DO NOT SET A RESOURCE PACK MADE WITH THIS APP AS A GLOBAL RESOURCE PACK. It will be very difficult to navigate the menus if you do.
+* DO NOT APPLY A RESOURCE PACK MADE WITH THIS APP TO AN IMPORTANT SAVE. You should first test the resource pack with a new world to make sure it doesn't crash.
+* Resource packs made with this app might not work well with older devices.
+* Using files with unsupported extensions probably won't work but you can try anyway.
+* ONLY .PNG AND .OGG FILES ARE OFFICIALLY SUPPORTED.
+* If you're using an audio file, keep it short. Otherwise, Minecraft will probably crash.
+* Press the help button in the top-right for more info. (Hey, you're already here!)

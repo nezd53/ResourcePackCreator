@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Resource Pack Creator</string>
+    <string name="enter_new_pack_name">Name of new pack</string>
+    <string name="enter_file_path">Path to file</string>
+    <string name="browse_for_file">browse</string>
+    <string name="start_copy">start</string>
+    <string name="enter_vanilla_path">Path to root folder of template</string>
+    <string name="finished_copying">Operation complete!</string>
+    <string name="import_resource_pack_template">Use resource pack as template</string>
+    <string name="close_button">close</string>
+    <string name="file_chooser_image_contentdesc">An icon representing the file type.</string>
+    <string name="get_help">Help</string>
+    <string name="settings_option">Settings</string>
+    <string name="copying_files">Copying files&#8230;</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Settings strings -->
+    <string name="settings_resource_pack_template">Use resource pack as template</string>
+    <string name="settings_resource_pack_template_summary_on">Instead of using this app\'s database to copy files, use a resource pack as a template. Use this option if this app\'s database becomes obsolete.</string>
+    <string name="settings_resource_pack_template_summary_off">Don\'t use a resource pack as a template. This is the default setting.</string>
+
+    <string name="settings_resize_image">Resize images before copying</string>
+    <string name="settings_resize_image_summary_on">Resize images that are larger than 64x64 pixels or are not squares. This is the default setting.</string>
+    <string name="settings_resize_image_summary_off">Don\'t resize images. The images may not appear properly or the resource pack may take up a significant amount of space.</string>
+
+    <string name="settings_show_unsupported">Show unsupported files in file browser</string>
+    <string name="settings_show_unsupported_summary_on">The file browser will show unsupported files.</string>
+    <string name="settings_show_unsupported_summary_off">Don\'t show unsupported files in the file browser. This is the default setting.</string>
+</resources>

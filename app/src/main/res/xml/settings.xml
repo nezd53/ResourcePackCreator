@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="pref_custom_template"
+        android:defaultValue="false"
+        android:title="@string/settings_resource_pack_template" />
+
+    <SwitchPreference
+        android:key="pref_resize_image"
+        android:defaultValue="true"
+        android:title="@string/settings_resize_image" />
+    <!--<SwitchPreference
+        android:key="pref_show_unsupported"
+        android:defaultValue="false"
+        android:title="@string/settings_show_unsupported" />-->
+</PreferenceScreen>
