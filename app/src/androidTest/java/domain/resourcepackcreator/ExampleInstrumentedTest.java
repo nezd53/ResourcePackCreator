@@ -1,4 +1,4 @@
-package domain.resourcepackcreator;
+package com.nezdats.rpc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
